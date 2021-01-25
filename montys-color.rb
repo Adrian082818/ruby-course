@@ -14,6 +14,11 @@ end
 
 if color == "blue"
     puts "Wow! My favorite color is #{color} also!"
+
+elsif 
+    color == "red"
+    puts "It's not as good as blue, but red isn't too bad."
+    
 else
     puts "I'm not a big fan of #{color}."
 end
